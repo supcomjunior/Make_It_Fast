@@ -1,15 +1,15 @@
-# Colors
-Colors: https://coolors.co/
-Gradient Background Generator: https://mycolor.space/gradient
+# Colors <br>
+Colors: https://coolors.co/ <br>
+Gradient Background Generator: https://mycolor.space/gradient <br>
 
-# Box Shadow
-Box-Shadow-Examples: https://getcssscan.com/css-box-shadow-examples
+# Box Shadow <br>
+Box-Shadow-Examples: https://getcssscan.com/css-box-shadow-examples <br>
 
-# Layout
-Layout Generator: https://layout.bradwoods.io/customize
-Waves Generator : https://getwaves.io/
+# Layout <br>
+Layout Generator: https://layout.bradwoods.io/customize <br>
+Waves Generator : https://getwaves.io/ <br>
 
-# Fonts
-FontAwesome : https://fontawesome.com/v4/icons/
-Jam Icons : https://icon-sets.iconify.design/jam/
-Noun Project : https://thenounproject.com/
+# Fonts <br>
+FontAwesome : https://fontawesome.com/v4/icons/ <br>
+Jam Icons : https://icon-sets.iconify.design/jam/ <br>
+Noun Project : https://thenounproject.com/ <br>
